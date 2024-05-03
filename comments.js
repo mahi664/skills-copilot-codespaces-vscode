@@ -1,4 +1,4 @@
-// Create we server
+// Create web server
 // 1. Import express
 const express = require('express');
 const router = express.Router();
